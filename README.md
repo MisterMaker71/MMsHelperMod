@@ -5,8 +5,11 @@ Jump force
 
 Walking Speed
 
+
 And enable:
+
 infinet sprint
+
 No fall damage
 
 ## Manually installation guide
