@@ -1,0 +1,9 @@
+{
+    "name": "MMs_Helper_Mod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/MisterMaker71/MMsHelperMod",
+    "description": "A small mod, that changes a few variables",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
