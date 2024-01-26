@@ -1,12 +1,11 @@
 # MisterMakers Helper Mod
-you can Change:
+#### you can Change:
 
 Jump force
 
 Walking Speed
 
-
-And enable:
+#### And enable:
 
 infinet sprint
 
