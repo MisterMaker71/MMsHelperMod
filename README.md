@@ -1,6 +1,6 @@
 # MisterMakers Helper Mod
 you can Change:
-Jump force
+Jump force/n
 Walking Speed
 
 And enable:
